@@ -1,0 +1,22 @@
+body{display: flex;
+      align-items: center;
+       flex-direction: column; 
+       
+        height: 100vh;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         text-transform: capitalize;
+         background-color: antiquewhite;}
+
+
+         .container{margin-top:160px;}
+button{margin-right: 10px;
+      padding: 5px;
+      width: 80px;
+      font-size: 20px;
+      border: none;
+      border-radius: 4px;
+      background-color:black;
+       color: aliceblue;
+       text-transform: capitalize;}
+
+       
